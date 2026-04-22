@@ -1,0 +1,40 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="190" y1="110" x2="1400" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173F9A"/>
+      <stop offset="1" stop-color="#07152E"/>
+    </linearGradient>
+    <linearGradient id="van" x1="232" y1="276" x2="1280" y2="690" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5FA4FF"/>
+      <stop offset="1" stop-color="#194AA9"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="488" y1="290" x2="1008" y2="468" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5F8FF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#6AADE8" stop-opacity="0.78"/>
+    </linearGradient>
+    <filter id="shadow" x="112" y="200" width="1298" height="562" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="32" stdDeviation="28" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="207" cy="175" r="110" fill="#F6C44F" fill-opacity="0.95"/>
+  <circle cx="1336" cy="148" r="72" fill="#8FE6FF" fill-opacity="0.42"/>
+  <path d="M0 720C206 654 352 638 520 670C705 706 824 798 1016 786C1220 774 1357 662 1600 666V900H0V720Z" fill="#0A1D45"/>
+  <g filter="url(#shadow)">
+    <path d="M280 540C280 494 317 457 364 457H1134C1181 457 1218 494 1218 540V578C1218 625 1181 662 1134 662H364C317 662 280 625 280 578V540Z" fill="url(#van)"/>
+    <path d="M365 314C391 279 433 258 476 258H916C968 258 1003 276 1048 321L1174 446H419C371 446 331 418 314 373L305 351L365 314Z" fill="url(#van)"/>
+    <path d="M449 297H888C919 297 943 308 970 332L1062 413H463C433 413 405 395 392 368L380 343L449 297Z" fill="url(#glass)"/>
+    <path d="M514 314V412" stroke="#194AA9" stroke-width="10"/>
+    <path d="M702 314V412" stroke="#194AA9" stroke-width="10"/>
+    <path d="M885 314V412" stroke="#194AA9" stroke-width="10"/>
+    <rect x="403" y="475" width="692" height="108" rx="24" fill="#F8F2E7"/>
+    <text x="749" y="547" text-anchor="middle" fill="#101010" font-size="76" font-family="Arial Black, Impact, sans-serif" letter-spacing="4">CALC BUS</text>
+    <circle cx="457" cy="665" r="70" fill="#131313"/>
+    <circle cx="457" cy="665" r="36" fill="#BFCBE0"/>
+    <circle cx="1053" cy="665" r="70" fill="#131313"/>
+    <circle cx="1053" cy="665" r="36" fill="#BFCBE0"/>
+    <rect x="300" y="587" width="896" height="18" rx="9" fill="#13326F" fill-opacity="0.8"/>
+    <rect x="1115" y="490" width="48" height="24" rx="12" fill="#F7C353"/>
+    <rect x="315" y="490" width="62" height="22" rx="11" fill="#E7F5FF" fill-opacity="0.86"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="54" fill="#33121F"/>
+  <circle cx="170" cy="184" r="84" fill="#FF9BC0" fill-opacity="0.26"/>
+  <circle cx="468" cy="460" r="94" fill="#F5BE55" fill-opacity="0.18"/>
+  <path d="M172 154C172 133 189 116 210 116H352C373 116 390 133 390 154V246C390 267 373 284 352 284H286L238 330V284H210C189 284 172 267 172 246V154Z" fill="#FFD9E6"/>
+  <path d="M250 264C250 243 267 226 288 226H430C451 226 468 243 468 264V346C468 367 451 384 430 384H392L344 430V384H288C267 384 250 367 250 346V264Z" fill="#FFF0D6"/>
+  <text x="282" y="188" text-anchor="middle" fill="#6C2040" font-size="48" font-family="Arial Black, Impact, sans-serif">PT?</text>
+  <text x="360" y="300" text-anchor="middle" fill="#8D5420" font-size="38" font-family="Arial Black, Impact, sans-serif">MR. CRONIN</text>
+  <text x="320" y="560" text-anchor="middle" fill="#FFF4E8" font-size="44" font-family="Arial Black, Impact, sans-serif">RUMOR MILL</text>
+</svg>

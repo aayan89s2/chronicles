@@ -1,0 +1,12 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="54" fill="#21163D"/>
+  <path d="M120 164C120 136 142 114 170 114H470C498 114 520 136 520 164V420C520 448 498 470 470 470H312L226 538V470H170C142 470 120 448 120 420V164Z" fill="#F3EAFD"/>
+  <circle cx="218" cy="226" r="60" fill="#F5BE55"/>
+  <circle cx="422" cy="226" r="60" fill="#8BDCF0"/>
+  <text x="218" y="242" text-anchor="middle" fill="#3B225E" font-size="46" font-family="Arial Black, Impact, sans-serif">HUH</text>
+  <text x="422" y="242" text-anchor="middle" fill="#3B225E" font-size="46" font-family="Arial Black, Impact, sans-serif">YEA</text>
+  <path d="M208 336H434" stroke="#7C5AA2" stroke-width="14" stroke-linecap="round"/>
+  <path d="M208 382H388" stroke="#7C5AA2" stroke-width="14" stroke-linecap="round"/>
+  <path d="M208 428H460" stroke="#7C5AA2" stroke-width="14" stroke-linecap="round"/>
+  <text x="320" y="586" text-anchor="middle" fill="#FFF4E8" font-size="44" font-family="Arial Black, Impact, sans-serif">VERIFIED LORE</text>
+</svg>

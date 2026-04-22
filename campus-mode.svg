@@ -1,0 +1,13 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="54" fill="#0D2234"/>
+  <circle cx="102" cy="112" r="58" fill="#F5BE55"/>
+  <path d="M0 448C96 404 176 396 270 425C360 452 440 520 640 492V640H0V448Z" fill="#143950"/>
+  <rect x="120" y="240" width="400" height="240" rx="18" fill="#F0E7D4"/>
+  <rect x="156" y="172" width="328" height="82" rx="16" fill="#D96A43"/>
+  <rect x="176" y="300" width="74" height="180" fill="#1C3A5C"/>
+  <rect x="282" y="300" width="74" height="180" fill="#1C3A5C"/>
+  <rect x="388" y="300" width="74" height="180" fill="#1C3A5C"/>
+  <rect x="242" y="362" width="154" height="118" fill="#B74A2C"/>
+  <text x="320" y="223" text-anchor="middle" fill="#FFF4E8" font-size="40" font-family="Arial Black, Impact, sans-serif">AES AT UTD</text>
+  <text x="320" y="546" text-anchor="middle" fill="#9FE9FF" font-size="44" font-family="Arial Black, Impact, sans-serif">CAMPUS MODE</text>
+</svg>
